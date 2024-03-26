@@ -7,7 +7,7 @@
 
 
 - 🌱 Atualmente estou aprendendo **HTML, JavaScript e CSS**
-- 👨‍💻 Meus projetos podem ser encontrados em [https://github.com/Jarvao](https://github.com/Jarvao)
+- 👨‍💻 Projetos [https://github.com/Jarvao](https://github.com/Jarvao?tab=repositories)
 - 📫 Me chame em **https://www.instagram.com/jarvao/**
 
 <h3 align="left">Connect with me:</h3>
