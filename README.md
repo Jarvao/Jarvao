@@ -11,6 +11,6 @@
 
 <h3 align="center">Contato:</h3>
 <p align="center">
-<a href="https://instagram.com/http//www.instagram.com/jarvao/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="http//www.instagram.com/jarvao/" height="30" width="40" /></a>
+<a href="https://www.instagram.com/jarvao/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="http//www.instagram.com/jarvao/" height="30" width="40" /></a>
 </p>
 <img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
