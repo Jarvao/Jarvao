@@ -2,7 +2,6 @@
 <h1 align="center">Ola, meu nome é João Henrique Braga</h1>
 <h3 align="center">Programador que acabou de migrar de carreira, apaixonado por Jogos e pelo que acontece por trás das telas.</h3>
 
-
 <br></br>
 
 🌱 Atualmente aprendendo **HTML, JavaScript e CSS** <br></br>
@@ -10,7 +9,6 @@
 <h3 align="left">Linguagens:</h3>
 <p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jarvao&show_icons=true&locale=en&layout=compact" alt="jarvao" /></p>
 
 <h3 align="left">Contato:</h3>
 <p align="left">
